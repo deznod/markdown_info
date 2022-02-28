@@ -1,4 +1,5 @@
-# GitHub-Flavored Markdown
+
+
 
 ## Краткое руководство
 
